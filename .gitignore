@@ -7,3 +7,4 @@ out
 *.ipr
 *.properties
 build.xml
+LibWizardPager/build
